@@ -9,7 +9,7 @@ I've been working in the field for 5+ years, no matter the underlying programmin
 * 🌍  I'm based in Mississauga, Canada
 * ✉️  You can contact me at [ramiiyassine98@gmail.com](mailto:ramiiyassine98@gmail.com)
 * 🚀  I'm currently working on [MindMapper](http://github.com/RamiYassine/MindMapper)
-* 🧠  I'm currently revisiting Qt Widgets framework
+* 🧠  I'm currently learning about FreeRTOS
 * 👥  I'm looking to collaborate on Projects
 * 💬  Ask me about There's a high chance I speak both your preferred human and computer languages!
 
